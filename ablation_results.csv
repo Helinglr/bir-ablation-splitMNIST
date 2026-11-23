@@ -1,0 +1,8 @@
+Method,Mean acc (%),Std (%),Seeds
+None (lower bound),19.85,0.03,3
+Standard GR,90.36,1.06,3
+BI-R (full),93.38,1.05,3
+BI-R − distillation,89.94,1.01,3
+BI-R − gating,95.92,0.32,3
+BI-R − conditional replay,90.66,0.09,3
+BI-R − feedback,92.8,1.2,3
